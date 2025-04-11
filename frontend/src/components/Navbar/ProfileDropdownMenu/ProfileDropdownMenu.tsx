@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './ProfileDropdown.module.css';
+import styles from './ProfileDropdownMenu.module.css';
 import {
   FaCog,
   FaQuestionCircle,
